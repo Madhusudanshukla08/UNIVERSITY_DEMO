@@ -1,4 +1,4 @@
 # UNIVERSITY_DEMO
 This is my first Git Repository.
 <br>
-Author - Madhusudan Shukla
+Author - Madhusudan
